@@ -1,0 +1,5 @@
+gsettings set org.gnome.desktop.interface font-rendering \'manual\'
+
+gsettings set org.gnome.desktop.interface enable-animations false       
+
+gsettings set org.gnome.desktop.interface color-scheme prefer-light
